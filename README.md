@@ -36,7 +36,7 @@
 - **CIDER range** == how many IPs there are within a single VPC
 - need to make sure that we have enough IP addresses for all machines, database instances, etc.
 - 172.31.0.0/16 => tells you how many IP addresses available there are
-    - use [https://cidr.xyz] (https://cidr.xyz) to get the *first usable IP*, *last usable IP*, and *number of available IPs*
+    - use [https://cidr.xyz](https://cidr.xyz) to get the *first usable IP*, *last usable IP*, and *number of available IPs*
     - in this example, they are 172.31.0.1, 172.31.255.254, 65 536, respectively
 
 ### Acessing the wider internet from a Private subnet
@@ -58,9 +58,9 @@
         - rules include IP addresses **AND** other security groups
 
 ## Implementations of VPCs
-1. [Amazon Web Services (AWS)] (https://en.wikipedia.org/wiki/Amazon_Web_Services)
-2. [IBM Cloud] (https://en.wikipedia.org/wiki/IBM_Cloud)
-3. [Google Cloud Platform] (https://en.wikipedia.org/wiki/Google_Cloud_Platform)
-4. [Microsoft Azure] (https://en.wikipedia.org/wiki/Microsoft_Azure)
+1. [Amazon Web Services (AWS)](https://en.wikipedia.org/wiki/Amazon_Web_Services)
+2. [IBM Cloud](https://en.wikipedia.org/wiki/IBM_Cloud)
+3. [Google Cloud Platform](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
+4. [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure)
 
 
